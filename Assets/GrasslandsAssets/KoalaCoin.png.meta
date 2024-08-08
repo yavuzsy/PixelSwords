@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: bc4201058c704874a85aa5f435894365
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4808082351451758576
+    second: KoalaCoin_0
+  - first:
+      213: -4573550851342869434
+    second: KoalaCoin_1
+  - first:
+      213: -7507701533343274315
+    second: KoalaCoin_2
+  - first:
+      213: -3482116294998021649
+    second: KoalaCoin_3
+  - first:
+      213: 744432976884999990
+    second: KoalaCoin_4
+  - first:
+      213: -1528981172464427800
+    second: KoalaCoin_5
+  - first:
+      213: -1607364857291808897
+    second: KoalaCoin_6
+  - first:
+      213: 796224412749925007
+    second: KoalaCoin_7
+  - first:
+      213: 2016156355832075389
+    second: KoalaCoin_8
+  - first:
+      213: -1529277633427932191
+    second: KoalaCoin_9
+  - first:
+      213: -5193378593440105066
+    second: KoalaCoin_10
+  - first:
+      213: 1448022134412120425
+    second: KoalaCoin_11
+  - first:
+      213: 6951234600866462253
+    second: KoalaCoin_12
+  - first:
+      213: -4465458970929138639
+    second: KoalaCoin_13
+  - first:
+      213: 5180496976668611406
+    second: KoalaCoin_14
+  - first:
+      213: 4052651647535259290
+    second: KoalaCoin_15
+  - first:
+      213: -6507701216857825718
+    second: KoalaCoin_16
+  - first:
+      213: -3831206066502955653
+    second: KoalaCoin_17
+  - first:
+      213: 9070865458431285465
+    second: KoalaCoin_18
+  - first:
+      213: 665289637519379260
+    second: KoalaCoin_19
+  - first:
+      213: -4745769461568738656
+    second: KoalaCoin_20
+  - first:
+      213: -7101265771825690666
+    second: KoalaCoin_21
+  - first:
+      213: -5513462988647675985
+    second: KoalaCoin_22
+  - first:
+      213: -8335866816836918553
+    second: KoalaCoin_23
+  - first:
+      213: -2014221449494760654
+    second: KoalaCoin_24
+  - first:
+      213: 6321127515759513617
+    second: KoalaCoin_25
+  - first:
+      213: 1948208201720672873
+    second: KoalaCoin_26
+  - first:
+      213: -856373562351867059
+    second: KoalaCoin_27
+  - first:
+      213: -6921890233042217780
+    second: KoalaCoin_28
+  - first:
+      213: -255229849003192742
+    second: KoalaCoin_29
+  - first:
+      213: 1690851545542179886
+    second: KoalaCoin_30
+  - first:
+      213: 921616097585594362
+    second: KoalaCoin_31
+  - first:
+      213: 4315272730529827410
+    second: KoalaCoin_32
+  - first:
+      213: -2546476998111867469
+    second: KoalaCoin_33
+  - first:
+      213: 6907531042891185211
+    second: KoalaCoin_34
+  - first:
+      213: -2823227047562225248
+    second: KoalaCoin_35
+  - first:
+      213: -6639554626789329813
+    second: KoalaCoin_36
+  - first:
+      213: 6216481712867299703
+    second: KoalaCoin_37
+  - first:
+      213: 4618861009324354576
+    second: KoalaCoin_38
+  - first:
+      213: -8846562058847620033
+    second: KoalaCoin_39
+  - first:
+      213: 1866234600792581300
+    second: KoalaCoin_40
+  - first:
+      213: 5576070701677546075
+    second: KoalaCoin_41
+  - first:
+      213: 4127200024083289163
+    second: KoalaCoin_42
+  - first:
+      213: -1187310134365234723
+    second: KoalaCoin_43
+  - first:
+      213: -6447331595054265878
+    second: KoalaCoin_44
+  - first:
+      213: -755650789624768819
+    second: KoalaCoin_45
+  - first:
+      213: -1520038005400090210
+    second: KoalaCoin_46
+  - first:
+      213: 8997773843742304462
+    second: KoalaCoin_47
+  - first:
+      213: 369235888619971569
+    second: KoalaCoin_48
+  - first:
+      213: -2402931472194550890
+    second: KoalaCoin_49
+  - first:
+      213: -5871667030364928644
+    second: KoalaCoin_50
+  - first:
+      213: 5556783957724355091
+    second: KoalaCoin_51
+  - first:
+      213: -7331228405474844657
+    second: KoalaCoin_52
+  - first:
+      213: -8835388150717817556
+    second: KoalaCoin_53
+  - first:
+      213: 1400379782789876364
+    second: KoalaCoin_54
+  - first:
+      213: 6310911362836733592
+    second: KoalaCoin_55
+  - first:
+      213: 6286939502007885698
+    second: KoalaCoin_56
+  - first:
+      213: 1720458890321051380
+    second: KoalaCoin_57
+  - first:
+      213: 600161413152051395
+    second: KoalaCoin_58
+  - first:
+      213: 465129136669838338
+    second: KoalaCoin_59
+  - first:
+      213: -8009280107707759909
+    second: KoalaCoin_60
+  - first:
+      213: 1651857282454768254
+    second: KoalaCoin_61
+  - first:
+      213: 6718482824783423599
+    second: KoalaCoin_62
+  - first:
+      213: -9062123448275135864
+    second: KoalaCoin_63
+  - first:
+      213: -5519786770409346163
+    second: KoalaCoin_64
+  - first:
+      213: 3265126905615321790
+    second: KoalaCoin_65
+  - first:
+      213: 7531639796361827066
+    second: KoalaCoin_66
+  - first:
+      213: -8592172558975601209
+    second: KoalaCoin_67
+  - first:
+      213: -840047894833414236
+    second: KoalaCoin_68
+  - first:
+      213: 1103738578287747638
+    second: KoalaCoin_69
+  - first:
+      213: -2994185967693403445
+    second: KoalaCoin_70
+  - first:
+      213: -2045113859094520755
+    second: KoalaCoin_71
+  - first:
+      213: 5456162639846185371
+    second: KoalaCoin_0
+  - first:
+      213: -3017069960400365783
+    second: KoalaCoin_1
+  - first:
+      213: -4022231500645714792
+    second: KoalaCoin_2
+  - first:
+      213: 4362154065144266285
+    second: KoalaCoin_3
+  - first:
+      213: 3127657745583779518
+    second: KoalaCoin_4
+  - first:
+      213: -6614727413273083591
+    second: KoalaCoin_5
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KoalaCoin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b991ac0530f28bb40800000000000000
+      internalID: 4808082351451758576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaCoin_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92795db2bd63126d0800000000000000
+      internalID: -4573550851342869434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaCoin_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89430a7c2c92e28c0800000000000000
+      internalID: -7507701533343274315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaCoin_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e3374b20c798c30800000000000000
+      internalID: -3482116294998021649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaCoin_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe2588062ca76b20800000000000000
+      internalID: 744432976884999990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaCoin_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931c1d5c674c334a0800000000000000
+      internalID: -1528981172464427800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KoalaCoin_0: 4808082351451758576
+      KoalaCoin_1: -4573550851342869434
+      KoalaCoin_2: -7507701533343274315
+      KoalaCoin_3: -3482116294998021649
+      KoalaCoin_4: 744432976884999990
+      KoalaCoin_5: -1528981172464427800
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

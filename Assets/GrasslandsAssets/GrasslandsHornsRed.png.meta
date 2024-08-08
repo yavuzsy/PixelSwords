@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: 06bc0885c7e578446b4c90b4c2565255
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5468280737299225912
+    second: GrasslandsHornsRed_0
+  - first:
+      213: 1295602545724625884
+    second: GrasslandsHornsRed_1
+  - first:
+      213: 5482039141606665325
+    second: GrasslandsHornsRed_2
+  - first:
+      213: -3824017421641388909
+    second: GrasslandsHornsRed_3
+  - first:
+      213: -3881220680037229692
+    second: GrasslandsHornsRed_4
+  - first:
+      213: 3482806552891795787
+    second: GrasslandsHornsRed_5
+  - first:
+      213: -8051883165510930245
+    second: GrasslandsHornsRed_6
+  - first:
+      213: -1358744161189755473
+    second: GrasslandsHornsRed_7
+  - first:
+      213: 1486814725396871541
+    second: GrasslandsHornsRed_8
+  - first:
+      213: -2194429239367732409
+    second: GrasslandsHornsRed_9
+  - first:
+      213: -7211918787573260862
+    second: GrasslandsHornsRed_10
+  - first:
+      213: -1519136255150149695
+    second: GrasslandsHornsRed_11
+  - first:
+      213: 8632648348685638616
+    second: GrasslandsHornsRed_12
+  - first:
+      213: -2532551975492234284
+    second: GrasslandsHornsRed_13
+  - first:
+      213: 5703375862041743355
+    second: GrasslandsHornsRed_14
+  - first:
+      213: -5547326378191383283
+    second: GrasslandsHornsRed_15
+  - first:
+      213: 1471339589136191613
+    second: GrasslandsHornsRed_16
+  - first:
+      213: -7921553677165121448
+    second: GrasslandsHornsRed_17
+  - first:
+      213: 6408162366754075055
+    second: GrasslandsHornsRed_18
+  - first:
+      213: -495324298363448494
+    second: GrasslandsHornsRed_19
+  - first:
+      213: 915834895381205907
+    second: GrasslandsHornsRed_20
+  - first:
+      213: 3895226279711605486
+    second: GrasslandsHornsRed_21
+  - first:
+      213: -6325108441253157233
+    second: GrasslandsHornsRed_22
+  - first:
+      213: 1447064246360277661
+    second: GrasslandsHornsRed_23
+  - first:
+      213: 1901968766410005830
+    second: GrasslandsHornsRed_24
+  - first:
+      213: 6097022926691313308
+    second: GrasslandsHornsRed_25
+  - first:
+      213: 6754537906286988694
+    second: GrasslandsHornsRed_26
+  - first:
+      213: -2488022211407724896
+    second: GrasslandsHornsRed_27
+  - first:
+      213: 2240115173244647060
+    second: GrasslandsHornsRed_28
+  - first:
+      213: -4795506893561249486
+    second: GrasslandsHornsRed_29
+  - first:
+      213: 467403371772252106
+    second: GrasslandsHornsRed_30
+  - first:
+      213: -3853355797554009155
+    second: GrasslandsHornsRed_31
+  - first:
+      213: -7388841064621986371
+    second: GrasslandsHornsRed_32
+  - first:
+      213: 1796905162165309227
+    second: GrasslandsHornsRed_33
+  - first:
+      213: -1837871549268940843
+    second: GrasslandsHornsRed_34
+  - first:
+      213: -6631237031261137138
+    second: GrasslandsHornsRed_35
+  - first:
+      213: 6520961719703412763
+    second: GrasslandsHornsRed_36
+  - first:
+      213: -8683162361356388690
+    second: GrasslandsHornsRed_37
+  - first:
+      213: 3304402631795273538
+    second: GrasslandsHornsRed_38
+  - first:
+      213: 4761346715626846227
+    second: GrasslandsHornsRed_39
+  - first:
+      213: 5259789150553545772
+    second: GrasslandsHornsRed_40
+  - first:
+      213: -2881599298019233178
+    second: GrasslandsHornsRed_41
+  - first:
+      213: -6392929998541119293
+    second: GrasslandsHornsRed_42
+  - first:
+      213: -8109705544451638817
+    second: GrasslandsHornsRed_43
+  - first:
+      213: 8572806945386475013
+    second: GrasslandsHornsRed_0
+  - first:
+      213: 365473660577905710
+    second: GrasslandsHornsRed_1
+  - first:
+      213: -5280057081323018331
+    second: GrasslandsHornsRed_2
+  - first:
+      213: 6894220632504200299
+    second: GrasslandsHornsRed_3
+  - first:
+      213: 8540116044435373399
+    second: GrasslandsHornsRed_4
+  - first:
+      213: 7928102939988615621
+    second: GrasslandsHornsRed_5
+  - first:
+      213: 5885988167228849716
+    second: GrasslandsHornsRed_6
+  - first:
+      213: -6243342285064223209
+    second: GrasslandsHornsRed_7
+  - first:
+      213: -3435826560824514570
+    second: GrasslandsHornsRed_8
+  - first:
+      213: 5311139713799397012
+    second: GrasslandsHornsRed_9
+  - first:
+      213: -6872750926698438786
+    second: GrasslandsHornsRed_10
+  - first:
+      213: 1894964026492145238
+    second: GrasslandsHornsRed_11
+  - first:
+      213: 7112509662343332796
+    second: GrasslandsHornsRed_12
+  - first:
+      213: -4628555973913371714
+    second: GrasslandsHornsRed_13
+  - first:
+      213: 5665084979475928008
+    second: GrasslandsHornsRed_14
+  - first:
+      213: -8761746968850026655
+    second: GrasslandsHornsRed_15
+  - first:
+      213: 1691781345351513456
+    second: GrasslandsHornsRed_16
+  - first:
+      213: -24461996459173073
+    second: GrasslandsHornsRed_17
+  - first:
+      213: 3727947116198316174
+    second: GrasslandsHornsRed_18
+  - first:
+      213: -2416640278511268291
+    second: GrasslandsHornsRed_19
+  - first:
+      213: -491532880800750808
+    second: GrasslandsHornsRed_20
+  - first:
+      213: -6511438467651859360
+    second: GrasslandsHornsRed_21
+  - first:
+      213: -3970720382273133269
+    second: GrasslandsHornsRed_22
+  - first:
+      213: 4554115346499866351
+    second: GrasslandsHornsRed_23
+  - first:
+      213: 653181261133267941
+    second: GrasslandsHornsRed_24
+  - first:
+      213: -4961579807402295861
+    second: GrasslandsHornsRed_25
+  - first:
+      213: -3678333900763940650
+    second: GrasslandsHornsRed_26
+  - first:
+      213: -75653762314134767
+    second: GrasslandsHornsRed_27
+  - first:
+      213: -6261413190981003274
+    second: GrasslandsHornsRed_28
+  - first:
+      213: -1223318237356622785
+    second: GrasslandsHornsRed_29
+  - first:
+      213: -284056662989727483
+    second: GrasslandsHornsRed_30
+  - first:
+      213: -8634969946297501051
+    second: GrasslandsHornsRed_31
+  - first:
+      213: -6529906525446591229
+    second: GrasslandsHornsRed_32
+  - first:
+      213: 1536066121768494185
+    second: GrasslandsHornsRed_33
+  - first:
+      213: -7423419471336336443
+    second: GrasslandsHornsRed_34
+  - first:
+      213: 4515602054610023961
+    second: GrasslandsHornsRed_35
+  - first:
+      213: 7748433706659798260
+    second: GrasslandsHornsRed_36
+  - first:
+      213: 1424681456472835279
+    second: GrasslandsHornsRed_37
+  - first:
+      213: -1282051806864815835
+    second: GrasslandsHornsRed_38
+  - first:
+      213: 3384285430835974121
+    second: GrasslandsHornsRed_39
+  - first:
+      213: -1155932425833385484
+    second: GrasslandsHornsRed_40
+  - first:
+      213: 7579903633477037524
+    second: GrasslandsHornsRed_41
+  - first:
+      213: -6967205802360657250
+    second: GrasslandsHornsRed_42
+  - first:
+      213: -377944991354210932
+    second: GrasslandsHornsRed_43
+  - first:
+      213: -7187341947402402551
+    second: GrasslandsHornsRed_44
+  - first:
+      213: 5941526577085839584
+    second: GrasslandsHornsRed_45
+  - first:
+      213: 4010456371881461939
+    second: GrasslandsHornsRed_46
+  - first:
+      213: 1553040736115986313
+    second: GrasslandsHornsRed_47
+  - first:
+      213: -2429578112324926669
+    second: GrasslandsHornsRed_48
+  - first:
+      213: 2043010072588156278
+    second: GrasslandsHornsRed_49
+  - first:
+      213: -1379281264327536408
+    second: GrasslandsHornsRed_50
+  - first:
+      213: -8096777825414475308
+    second: GrasslandsHornsRed_51
+  - first:
+      213: -1678418656234798050
+    second: GrasslandsHornsRed_52
+  - first:
+      213: -6441393317538332731
+    second: GrasslandsHornsRed_53
+  - first:
+      213: -2628284981398902343
+    second: GrasslandsHornsRed_54
+  - first:
+      213: 529719714385920093
+    second: GrasslandsHornsRed_55
+  - first:
+      213: -1590438362340377204
+    second: GrasslandsHornsRed_56
+  - first:
+      213: -7161690222186521705
+    second: GrasslandsHornsRed_57
+  - first:
+      213: -3222242287478643068
+    second: GrasslandsHornsRed_58
+  - first:
+      213: -3970414491462585401
+    second: GrasslandsHornsRed_59
+  - first:
+      213: 4278924587595492638
+    second: GrasslandsHornsRed_60
+  - first:
+      213: 952651447607184625
+    second: GrasslandsHornsRed_61
+  - first:
+      213: 1777568906812201875
+    second: GrasslandsHornsRed_62
+  - first:
+      213: -6492076299825296428
+    second: GrasslandsHornsRed_63
+  - first:
+      213: -5650887488146367184
+    second: GrasslandsHornsRed_64
+  - first:
+      213: 7268954145185638476
+    second: GrasslandsHornsRed_65
+  - first:
+      213: 5693966426110856362
+    second: GrasslandsHornsRed_66
+  - first:
+      213: -2614031381561811681
+    second: GrasslandsHornsRed_67
+  - first:
+      213: 954736337738048222
+    second: GrasslandsHornsRed_68
+  - first:
+      213: -7994242706760967319
+    second: GrasslandsHornsRed_69
+  - first:
+      213: -9201328183241607952
+    second: GrasslandsHornsRed_70
+  - first:
+      213: 3250380806228918623
+    second: GrasslandsHornsRed_71
+  - first:
+      213: 6877770817513773320
+    second: GrasslandsHornsRed_72
+  - first:
+      213: -1368143717721325947
+    second: GrasslandsHornsRed_73
+  - first:
+      213: 6837247791376889374
+    second: GrasslandsHornsRed_74
+  - first:
+      213: -439851109115789080
+    second: GrasslandsHornsRed_75
+  - first:
+      213: 6790681580037499546
+    second: GrasslandsHornsRed_76
+  - first:
+      213: -5186905789770986499
+    second: GrasslandsHornsRed_77
+  - first:
+      213: -3676000737284895689
+    second: GrasslandsHornsRed_78
+  - first:
+      213: 185814595095884316
+    second: GrasslandsHornsRed_79
+  - first:
+      213: 5637032999750518313
+    second: GrasslandsHornsRed_80
+  - first:
+      213: -8420644624884340918
+    second: GrasslandsHornsRed_81
+  - first:
+      213: -223759781161398398
+    second: GrasslandsHornsRed_82
+  - first:
+      213: 8540078262506529999
+    second: GrasslandsHornsRed_83
+  - first:
+      213: -698598005049962203
+    second: GrasslandsHornsRed_84
+  - first:
+      213: 1247274626246972715
+    second: GrasslandsHornsRed_85
+  - first:
+      213: 2992736462793465654
+    second: GrasslandsHornsRed_86
+  - first:
+      213: -3366689780450842703
+    second: GrasslandsHornsRed_87
+  - first:
+      213: 756533582009557630
+    second: GrasslandsHornsRed_88
+  - first:
+      213: 684708283393868593
+    second: GrasslandsHornsRed_89
+  - first:
+      213: 5693409369898893637
+    second: GrasslandsHornsRed_90
+  - first:
+      213: -2655559128888501192
+    second: GrasslandsHornsRed_91
+  - first:
+      213: 7730783435716851485
+    second: GrasslandsHornsRed_92
+  - first:
+      213: 464573203123451600
+    second: GrasslandsHornsRed_93
+  - first:
+      213: -1162965528278337298
+    second: GrasslandsHornsRed_94
+  - first:
+      213: 8873886740192557893
+    second: GrasslandsHornsRed_95
+  - first:
+      213: 4245504333028801810
+    second: GrasslandsHornsRed_96
+  - first:
+      213: -3676703358566525228
+    second: GrasslandsHornsRed_97
+  - first:
+      213: 3516581857015205114
+    second: GrasslandsHornsRed_98
+  - first:
+      213: 1346026975887745569
+    second: GrasslandsHornsRed_99
+  - first:
+      213: 7387299888748959959
+    second: GrasslandsHornsRed_100
+  - first:
+      213: 4041771669696264505
+    second: GrasslandsHornsRed_101
+  - first:
+      213: 4588512636065914267
+    second: GrasslandsHornsRed_102
+  - first:
+      213: -8253508695547603846
+    second: GrasslandsHornsRed_103
+  - first:
+      213: -6110561836907069007
+    second: GrasslandsHornsRed_104
+  - first:
+      213: -370764063465961353
+    second: GrasslandsHornsRed_105
+  - first:
+      213: 5119292837693269817
+    second: GrasslandsHornsRed_106
+  - first:
+      213: -3792484353447597826
+    second: GrasslandsHornsRed_107
+  - first:
+      213: -4565518998941662124
+    second: GrasslandsHornsRed_108
+  - first:
+      213: -4893770740662133648
+    second: GrasslandsHornsRed_109
+  - first:
+      213: -3070929156444908918
+    second: GrasslandsHornsRed_85
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e23c30f7ab8f670800000000000000
+      internalID: -5468280737299225912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cf181ab5c621500800000000000000
+      internalID: 1295602545724625884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7a4f93f0879b6b0800000000000000
+      internalID: 5482039141606665325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ce49b53213daf50800000000000000
+      internalID: -3824017421641388909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3f218b46948670800000000000000
+      internalID: -3881220680037229692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c160c87e97460e60800000000000000
+      internalID: 3482806552891795787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef3d38d0b3fa150800000000000000
+      internalID: -8051883165510930245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716429735413b59a0800000000000000
+      internalID: -1358744161189755473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7e33c52fd7150d0800000000000000
+      internalID: 1486814725396871541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e9b791e65f4b940800000000000000
+      internalID: -2194429239367732409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f176012751f90a0800000000000000
+      internalID: -7211918787573260862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0753f4f8b2a6a7710800000000000000
+      internalID: 1471339589136191613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bdd8e91f719aff0800000000000000
+      internalID: -7921553677165121448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88417296245cb330800000000000000
+      internalID: 6408162366754075055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e4f69787e567ed0800000000000000
+      internalID: -495324298363448494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823627cf279bd29f0800000000000000
+      internalID: 915834895381205907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c0cc67639b2a5a0800000000000000
+      internalID: 3895226279711605486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25e430a9da25e8c0800000000000000
+      internalID: -6325108441253157233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee874667c7733f30800000000000000
+      internalID: 1447064246360277661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e34ac375e0901900800000000000000
+      internalID: 1901968766410005830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdf807e37de42bb0800000000000000
+      internalID: 6097022926691313308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d830bf4ecee3fcc0800000000000000
+      internalID: 6754537906286988694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d204eac9c1165a0800000000000000
+      internalID: -7388841064621986371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964e583dff3315510800000000000000
+      internalID: 1796905162165309227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c397406257baf890800000000000000
+      internalID: -1837871549268940843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916fd0cd424aaae30800000000000000
+      internalID: -6631237031261137138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcde1b3767f78b60800000000000000
+      internalID: 6520961719703412763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc446238c3c75c310800000000000000
+      internalID: -8683162361356388690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529cc2c9cac353ee0800000000000000
+      internalID: 3304402631795273538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef028b2ba567fe20800000000000000
+      internalID: 4761346715626846227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f178d5459d45ffe0800000000000000
+      internalID: 5259789150553545772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd6711d13a313960800000000000000
+      internalID: -2881599298019233178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aa0419c338f4f90800000000000000
+      internalID: -6392929998541119293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3330fcc4497684ed0800000000000000
+      internalID: -2429578112324926669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d792136da3a5c10800000000000000
+      internalID: 2043010072588156278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0d7627ffecbdce0800000000000000
+      internalID: -1379281264327536408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d119e2677772af80800000000000000
+      internalID: -8096777825414475308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148cb2ff1f05b8e0800000000000000
+      internalID: -1678418656234798050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7d89d7e29b96a0800000000000000
+      internalID: -6441393317538332731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b969331cb4768bd0800000000000000
+      internalID: -2628284981398902343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d508e7e0641f95700800000000000000
+      internalID: 529719714385920093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d3c876cb0ade9e0800000000000000
+      internalID: -1590438362340377204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b1f2befa09c9c90800000000000000
+      internalID: -7161690222186521705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrasslandsHornsRed_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486e79236bb4843d0800000000000000
+      internalID: -3222242287478643068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GrasslandsHornsRed_0: -5468280737299225912
+      GrasslandsHornsRed_1: 1295602545724625884
+      GrasslandsHornsRed_10: -7211918787573260862
+      GrasslandsHornsRed_16: 1471339589136191613
+      GrasslandsHornsRed_17: -7921553677165121448
+      GrasslandsHornsRed_18: 6408162366754075055
+      GrasslandsHornsRed_19: -495324298363448494
+      GrasslandsHornsRed_2: 5482039141606665325
+      GrasslandsHornsRed_20: 915834895381205907
+      GrasslandsHornsRed_21: 3895226279711605486
+      GrasslandsHornsRed_22: -6325108441253157233
+      GrasslandsHornsRed_23: 1447064246360277661
+      GrasslandsHornsRed_24: 1901968766410005830
+      GrasslandsHornsRed_25: 6097022926691313308
+      GrasslandsHornsRed_26: 6754537906286988694
+      GrasslandsHornsRed_3: -3824017421641388909
+      GrasslandsHornsRed_32: -7388841064621986371
+      GrasslandsHornsRed_33: 1796905162165309227
+      GrasslandsHornsRed_34: -1837871549268940843
+      GrasslandsHornsRed_35: -6631237031261137138
+      GrasslandsHornsRed_36: 6520961719703412763
+      GrasslandsHornsRed_37: -8683162361356388690
+      GrasslandsHornsRed_38: 3304402631795273538
+      GrasslandsHornsRed_39: 4761346715626846227
+      GrasslandsHornsRed_4: -3881220680037229692
+      GrasslandsHornsRed_40: 5259789150553545772
+      GrasslandsHornsRed_41: -2881599298019233178
+      GrasslandsHornsRed_42: -6392929998541119293
+      GrasslandsHornsRed_48: -2429578112324926669
+      GrasslandsHornsRed_49: 2043010072588156278
+      GrasslandsHornsRed_5: 3482806552891795787
+      GrasslandsHornsRed_50: -1379281264327536408
+      GrasslandsHornsRed_51: -8096777825414475308
+      GrasslandsHornsRed_52: -1678418656234798050
+      GrasslandsHornsRed_53: -6441393317538332731
+      GrasslandsHornsRed_54: -2628284981398902343
+      GrasslandsHornsRed_55: 529719714385920093
+      GrasslandsHornsRed_56: -1590438362340377204
+      GrasslandsHornsRed_57: -7161690222186521705
+      GrasslandsHornsRed_58: -3222242287478643068
+      GrasslandsHornsRed_6: -8051883165510930245
+      GrasslandsHornsRed_7: -1358744161189755473
+      GrasslandsHornsRed_8: 1486814725396871541
+      GrasslandsHornsRed_9: -2194429239367732409
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
